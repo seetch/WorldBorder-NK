@@ -1,0 +1,7 @@
+name: WorldBorder
+main: me.seetch.worldborder.WorldBorder
+version: "${pom.version}"
+api: 1.0.13
+authors:
+  - "https://github.com/seetch"
+website: "https://github.com/weminerune/WorldBorder"

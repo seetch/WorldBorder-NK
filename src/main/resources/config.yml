@@ -1,0 +1,8 @@
+# World Border settings.
+border:
+    enabled: true
+    positions:
+      - -2000
+      - -2000
+      - 2000
+      - 2000
